@@ -1,1 +1,1 @@
-# Karplus-Strong-
+# Karplus-Strong
